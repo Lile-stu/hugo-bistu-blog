@@ -10,16 +10,16 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
-    customText = ""
+    since      = 2026
+    customText = "本网站由北京信息科技大学在校学生制作，非学校官网，注意甄别站内内容"
 
 [dateFormat]
     published   = ":date_full"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = ""
+    subtitle = "北信科博客网站"
     avatar   = "img/avatar.png"
 
 [article]
@@ -51,7 +51,22 @@ SortBy              = "default"
 ## Comments
 [comments]
     enabled  = true
-    provider = "disqus"
+    provider = "giscus"
+
+     [comments.giscus]
+        repo             = "Lile-stu/hugo-bistu-blog"
+        repoID           = "R_kgDOS-k80w"
+        category         = "General"
+        categoryID       = "DIC_kwDOS-k8084C_bYP"
+        mapping          = "title"
+        lightTheme       = "light"
+        darkTheme        = "dark_dimmed"
+        reactionsEnabled = 1
+        emitMetadata     = 0
+        inputPosition    = "top"
+        lang             = "zh-CN"
+        strict           = 0
+        loading          = "lazy"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
