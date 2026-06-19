@@ -1,4 +1,11 @@
-
+---
+title: "准备材料"
+date: 2026-06-19T15:59:24+08:00
+# 移除 build 块，或者显式指定渲染：
+build:
+  render: always
+  list: always
+---
 # **新生开学准备材料**
 
 ## 个人行李相关
@@ -53,17 +60,6 @@ http://bistu.huafengfar.com:8090/GetXH.aspx 复制到浏览器打开查询学号
  个人档案(自带档案的新生)
 自带档案的考生务必 **！！不要拆开档案！！**，拿到学校后上交。
 
-<div class="tag-plugin note" color="light">
-    <div class="body">
-        检查单：{% checkbox color:green checked:false 录取通知书 %}
-        {% checkbox color:green checked:false 高考准考证 %}
-        {% checkbox color:green checked:false 身份证原件及复印件1份 %}
-        {% checkbox color:green checked:false 2023年招生录取信息确认表 %}
-        {% checkbox color:green checked:false 党组织关系介绍信/团员证 %}
-        {% checkbox color:green checked:false 个人档案 %}
-        {% checkbox color:yellow checked:false 户口迁移证明 %}
-    </div>
-</div>
 
 
 ## **新生开学领取物品**
