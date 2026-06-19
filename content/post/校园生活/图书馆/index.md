@@ -5,6 +5,7 @@ date: 2026-06-19T15:59:24+08:00
 build:
   render: always
   list: always
+image: "https://pic.bistublog.xyz/PicGo/screen2.jpeg"
 ---
 ## 图书馆介绍
 
