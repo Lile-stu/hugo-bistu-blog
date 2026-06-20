@@ -5,7 +5,7 @@ title   = "BISTU--Blog"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
-defaultContentLanguage = "en"
+defaultContentLanguage = "ch"
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -16,3 +16,6 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
     pagerSize = 5
+
+[taxonomies]
+# 留空代表不启用任何分类和标签系统

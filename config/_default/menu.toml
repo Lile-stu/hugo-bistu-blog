@@ -15,10 +15,4 @@
     [social.params]
         icon = "brand-github"
 
-[[social]]
-    identifier = "qq"
-    name       = "QQ"
-    url        = "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1605954916"
 
-    [social.params]
-        icon = ""

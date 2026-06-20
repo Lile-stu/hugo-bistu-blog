@@ -2,7 +2,7 @@
 title: Hello World
 description: 本页面用于测试博客功能
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2026-01-01 00:00:00+0000
 image: cover.jpg
 categories:
     - Example Category
