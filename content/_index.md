@@ -5,14 +5,14 @@ layout: single
 image: "https://pic.bistublog.xyz/PicGo/screen2.jpeg"
 ---
 *本博客非[学校官方](https://www.bistu.edu.cn/)网站，仅为新生和在校生提供部分信息*
-### 网站导航
-
+### 导航
+本页面用于分类展示站内文章
 #### 学校信息
 - [学校官网]({{< ref "post/学校信息/学校官网" >}})
 
 - [学校地址]({{< ref "post/学校信息/学校地址" >}})
 
-- [校区地图]({{< ref "post/学校信息/学校官网" >}})
+- [校区地图]({{< ref "post/学校信息/校区地图" >}})
 #### 新生开学
 
 - [开学须知]({{< ref "post/新生开学/开学须知" >}})
@@ -25,6 +25,8 @@ image: "https://pic.bistublog.xyz/PicGo/screen2.jpeg"
 
 - [军训]({{< ref "post/新生开学/军训" >}})
 
+- [学校基本要求]({{< ref "post/新生开学/学校基本要求" >}})
+
 #### 校园生活
 - [交通情况]({{< ref "post/校园生活/交通情况" >}})
 
@@ -36,3 +38,5 @@ image: "https://pic.bistublog.xyz/PicGo/screen2.jpeg"
 
 - [常见问题回答]({{< ref "post/校园生活/常见问题回答" >}})
 
+#### 课程教务
+待编辑
